@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+    border: 5px solid purple
+}
+
+li {
+    color: green;
+
+}
+
+h4 {
+    color: blue;
+}
+body {
+    /* background: url("https://img.webmd.com/dtmcms/live/webmd/consumer_assetntos/site_images/article_thumbnails/other/dog_cool_summer_slideshow/1800x1200_dog_cool_summer_other.jpg?resize=750px:*");
+    background-repeat: no-repeat; 
+    background-size: cover; */
+    background: pink;
+}
