@@ -1,9 +1,9 @@
 h1 {
-    color: red;
-    border-color: purple;
-    border-width: 5px;
-    border-style: solid;
-    border: 5px solid purple
+
+    margin: 0px;
+}
+h2{
+    margin:10px;
 }
 
 li {
@@ -19,4 +19,16 @@ body {
     background-repeat: no-repeat; 
     background-size: cover; */
     background: pink;
+    font-family: 'Architects Daughter', cursive;
 }
+#intro{
+    text-align: center;
+}
+
+
+
+#intro table {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+   
