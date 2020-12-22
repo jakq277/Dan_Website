@@ -23,3 +23,15 @@ html hr {
     color: white;
 }
 
+.jumbotron {
+    background: none;
+}
+#project {
+   background: none;
+}
+
+.center {
+    width: 50%;
+    margin: auto;
+}
+
