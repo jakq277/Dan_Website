@@ -1,21 +1,30 @@
+* {
+    scroll-behavior: smooth;
+    
+}
 #intro {
+    
     text-align: center;
-    padding-top: 15%;
+    height: 100%;
+    
 }
 
 html body {
-    background-image: url("https://images.unsplash.com/photo-1572020478232-4d96c19d6154?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
- 
+    background-image: url("https://wallpapercave.com/wp/wp6183381.jpg");
+    background-color: black;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     color: white;
     font-family: 'Rajdhani', sans-serif;
+    font-size: small;
+    
     
 }
+
 html h1{
     font-weight: 700;
-    font-size: 5em;
+    font-size: 4em;
     border-color: white;
     border-bottom: 3px solid rgba(255,255,255,0.8);
 }
@@ -23,15 +32,38 @@ html hr {
     color: white;
 }
 
+
 .jumbotron {
     background: none;
 }
 #project {
    background: none;
+   height: 100%;
+
 }
 
 .center {
     width: 50%;
     margin: auto;
 }
+
+
+
+#contact {
+    /* float: left; */
+   
+    margin: auto;
+    text-align: center;
+}
+
+#me {
+    overflow: visible;
+    background-image: url("blob.svg");
+}
+
+#project ul{
+    font-size: large;
+}
+
+
 
