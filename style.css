@@ -1,6 +1,7 @@
 * {
     scroll-behavior: smooth;
     
+    
 }
 #intro {
     
@@ -8,10 +9,13 @@
     height: 100%;
     
 }
+#logout:hover {
+    color: black;
+}
+
 
 html body {
     background-image: url("https://wallpapercave.com/wp/wp6183381.jpg");
-    background-color: black;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -56,14 +60,19 @@ html hr {
     
 }
 
-#me {
-    overflow: visible;
-    background-image: url("blob.svg");
-}
+
 
 #project ul{
     font-size: large;
 }
 
+.wrapper {
+    border-radius:  24px;
+    border: 12px outset rgba(69, 15, 29,0.5);
     
+    
+    background-color:rgba(23, 4, 32,0.9);
+}
+
+
 
